@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pemantauan Realisasi Anggaran",
+  "description": "Aplikasi profesional pemantauan realisasi anggaran (SKKO/RKAP), input & edit anggaran manual, import realisasi excel, analisis kinerja, dan dashboard interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
